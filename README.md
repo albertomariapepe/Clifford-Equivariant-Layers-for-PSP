@@ -1,6 +1,6 @@
 
 
-# 🧬 Clifford Group Equivariant Neural Network for Protein Structure Prediction 🧬
+# 🧬 Clifford Group Equivariant Neural Network Layers for Protein Structure Prediction 🧬
 
 ### 🌌 Northern Lights Deep Learning Conference 2024 - Tromsø, Norway 🇳🇴  
 

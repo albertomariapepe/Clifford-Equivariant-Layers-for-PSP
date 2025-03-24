@@ -41,4 +41,4 @@ If you find this work useful, please cite:
 
 ---
 
-🔬 **CGENNs bring a new era of geometry-aware deep learning to protein structure prediction** 🧬
+🔬 **CGENNs bring a a fresh approach to geometry-aware deep learning for protein structure prediction** 🧬
